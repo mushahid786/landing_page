@@ -1,0 +1,200 @@
+body{
+   
+height:1px;
+}
+.profile{
+    border-radius: 50%;
+    width:40px;
+    height: 40px;
+    text-indent: 90px;
+}
+.head{
+   background-color:#0F5ef0;
+   text-align: center;
+   max-height: 491px;
+}
+.nav{
+    text-align: center;
+   
+}
+.logo{
+    background-color:#0F5ef0;
+    width: 50px;  
+    height: 40px;
+}
+.watermark{
+    height: 520px;
+    width: 500px;
+}
+.background{
+    position: relative;
+    z-index: 1;
+    bottom: 540px;
+}
+.table {
+    position: relative;
+    z-index: 1;
+    bottom: 150px;
+    background-color: white;
+   
+    box-shadow: 4px 3px 15px -2px grey;
+}
+.maintable{
+    width: 80%;
+margin: auto;
+}
+.timg{
+    margin-right: 6px;
+}
+td{
+    color: gray;
+}
+.changes{
+    color:green;
+}
+.buy{
+color: #75b473;
+    border: none;
+    width: 60px;
+    font-size: 12px;
+   font-weight: 600;
+   height: 30px;
+   background-color:#E8F8F5;
+}
+th{
+    background-color:#bbe1fa;
+    color: blue;
+}
+.down{
+    color: blue;
+    position: relative;
+    z-index: 1;
+    bottom: 180px;
+    margin-left:50%;
+}
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both
+  }
+  
+  .column-66 {
+    float: left;
+    width: 50%;
+    padding: 20px;
+  }
+  .column-33 {
+    float: left;
+    width: 50%;
+    padding: 20px;
+    height: 20%;
+  }
+  
+  .large-font {
+    font-size: 48px;
+  }
+  .xlarge-font {
+    font-size: 64px
+  }
+  
+ .invite{
+     background-color: blue;
+     border: none;
+     color: white;
+    width: 120px;
+    height: 60px;
+ }
+ .referal{
+    width:445px;
+     height:300px;
+     bottom: 60px;
+     position: relative;
+ }
+ .column-35 {
+    float: left;
+    width: 50%;
+    padding: 20px;
+    height: 100%;
+  }
+  .column-67{
+      color: white;
+  }
+.portfolio{
+   
+    background-color:#0F5ef0;
+    -ms-transform: skewY(20deg);
+  transform: skewY(170deg);
+  /* width: 1400px; */
+  height: 1000px;
+  margin: 90px 0px 0px ;
+ 
+}
+ .circle{
+     font-size: xx-large;
+ }
+ .paragraph{
+color:whitesmoke;
+ }
+  .fullprotofolio{
+  bottom: 850px;
+  position: relative;
+    transform: skewY(360deg);
+  }
+  .group{
+      bottom: 600px;  
+      position: relative;
+  }
+  .column-34 {
+    float: left;
+    margin-top: 150px;
+    height: 100%;
+  }
+  .maingroup{
+      margin-top: 100px;
+  }
+   .bankaccount{
+    bottom: 500px;  
+    position: relative;
+    background-color:#0F5ef0;
+    color: white;
+margin: 30px;
+padding: 80px;
+  }
+  .bank{
+    display: flex;
+    justify-content: center;
+    /* margin: 60px; */
+  }
+  .bankimg{
+    padding: 80px;
+  }
+  .fig1{
+    border-top: 5px solid white;
+    position: relative;
+    bottom: 157px;
+    left: 261px;
+    width: 137px; 
+  }
+  .referal2 {
+    bottom: 400px;
+    position: relative;
+  }
+  .footer-copyright{
+    background-color:#0F5ef0;
+    color: thistle;
+  }
+  .foot{
+    padding: 80px;
+  }
+  .page-footer{
+    background-color:#eff7fd;
+    position: relative;
+    bottom: 400px;
+  }
+  .connect{
+   margin-top: 62px;
+  }
+  .product{
+    color: gray;
+  }
